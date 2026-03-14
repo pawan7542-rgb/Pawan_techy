@@ -1,5 +1,5 @@
-x = 70
-y = 25
+x = int(input("Enter a number"))
+y = int(input("Enter a number"))
 
 print("The value of", x, "+", y, "is:", x + y)
 print("The value of", x, "-", y, "is:", x - y)
